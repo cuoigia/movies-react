@@ -42,6 +42,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![RecordMoviesPrj](https://user-images.githubusercontent.com/23465302/236604401-fa11b24f-b745-4a3a-853f-86732bf66ee5.gif)
 
 > Please record screen to a GIF file and attach link here
 
